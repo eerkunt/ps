@@ -3,7 +3,7 @@
 import os
 import re
 import sys
-from pprint import pprint
+# from pprint import pprint
 
 directory = "/proc"
 dirCheck = re.compile(r'^\d*$')
